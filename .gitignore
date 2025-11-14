@@ -1,0 +1,20 @@
+.env
+
+# Python virtual environment
+venv/
+.venv/
+.venv1/
+*.pyc
+__pycache__/
+
+# IDE configuration
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
+.coverage
